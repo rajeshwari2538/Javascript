@@ -11,3 +11,8 @@
 # Call Stack
     -> It maintains the order of execution of execution context.
     -> It works on the Last In, First Out (LIFO) principle.
+
+# Hoisting
+    -> Hoisting is a phenomena in javascript by which we can access variables and functions even before we have initialized it without getting any error.
+
+    -> whenever we try to access variable before initialising it will give undefined because of execution context's memory creation phase.
